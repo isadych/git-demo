@@ -20,5 +20,7 @@ public class Master {
         System.out.println("13");
         System.out.println("14+++++");
 
+        // https://githowto.com/uk/aliases
+
    }
 }
